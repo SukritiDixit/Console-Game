@@ -1,0 +1,11 @@
+/Users/sukritidixit/Documents/CV/utd/BigHugeGames/practice/practice/bin/Debug/netcoreapp2.0/practice.deps.json
+/Users/sukritidixit/Documents/CV/utd/BigHugeGames/practice/practice/bin/Debug/netcoreapp2.0/practice.runtimeconfig.json
+/Users/sukritidixit/Documents/CV/utd/BigHugeGames/practice/practice/bin/Debug/netcoreapp2.0/practice.runtimeconfig.dev.json
+/Users/sukritidixit/Documents/CV/utd/BigHugeGames/practice/practice/bin/Debug/netcoreapp2.0/practice.dll
+/Users/sukritidixit/Documents/CV/utd/BigHugeGames/practice/practice/bin/Debug/netcoreapp2.0/practice.pdb
+/Users/sukritidixit/Documents/CV/utd/BigHugeGames/practice/practice/obj/Debug/netcoreapp2.0/practice.csprojResolveAssemblyReference.cache
+/Users/sukritidixit/Documents/CV/utd/BigHugeGames/practice/practice/obj/Debug/netcoreapp2.0/practice.csproj.CoreCompileInputs.cache
+/Users/sukritidixit/Documents/CV/utd/BigHugeGames/practice/practice/obj/Debug/netcoreapp2.0/practice.AssemblyInfoInputs.cache
+/Users/sukritidixit/Documents/CV/utd/BigHugeGames/practice/practice/obj/Debug/netcoreapp2.0/practice.AssemblyInfo.cs
+/Users/sukritidixit/Documents/CV/utd/BigHugeGames/practice/practice/obj/Debug/netcoreapp2.0/practice.dll
+/Users/sukritidixit/Documents/CV/utd/BigHugeGames/practice/practice/obj/Debug/netcoreapp2.0/practice.pdb
